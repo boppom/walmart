@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-10-28_1449",
+    "name": "walmart",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -13,7 +13,11 @@
     "siteFonts": [],
     "uniqCompNum": 2,
     "versionPublish": "4.10.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "siteUrl": "undefined",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
